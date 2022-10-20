@@ -1,2 +1,2 @@
-# İnternetPI
+# InternetProgramcılıgı1
  ders notları
