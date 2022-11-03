@@ -1,2 +1,2 @@
 # InternetProgramcılıgı1
- ders notları
+ php ders notları
